@@ -1,4 +1,13 @@
-# ej.github
+# borrar2
 
-This repository was updated with a new commit created by GitHub Copilot on request.
-# borrar3
+Repositorio de ejemplo para pruebas.
+
+## Descripción
+Este repositorio se utiliza para realizar pruebas y demostraciones.
+
+## Estructura
+- README.md: Este archivo.
+
+---
+
+Creado el 23 de octubre de 2025.
